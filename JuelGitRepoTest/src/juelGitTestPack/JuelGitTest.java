@@ -7,6 +7,7 @@ public class JuelGitTest {
 		System.out.println("Just another line");
 		System.out.println("Updated!");
 		System.out.println("Testing 1");
+		System.out.println("Testing 2");
 	}
 
 }
